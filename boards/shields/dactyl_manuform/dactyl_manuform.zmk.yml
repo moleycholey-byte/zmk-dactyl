@@ -1,8 +1,8 @@
 file_format: "1"
 id: dactyl_manuform
-name: Dactyl Manuform 4x5
+name: Dactyl Manuform 5x6
 type: shield
-url: https://github.com/abstracthat/dactyl-manuform
+url: https://github.com/moleycholey-byte/zmk-dactyl
 requires: [pro_micro]
 features:
   - keys
